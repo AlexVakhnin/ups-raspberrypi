@@ -1,11 +1,11 @@
 //
 // SMART UPS FOR RRASPBERRY PI
-// SCETCH FOR ARDUINO NANO
+// SCETCH FOR BOARD: ARDUINO NANO, PROCESSOR: ATMEGA168
 // https://github.com/AlexVakhnin/ups-raspberrypi/blob/main/ups-schematic.png
-
+//
 // версия 1.2 (стабильная) / av899@ukr.net /Вахнин Александр/ =Cherkasy 2020= /
 //
-// (программа написана в стиле "Программный автомат" на сегодняшний день оттестирована и работает стабильно.)
+// (алгоритм "Программный автомат")
 //
 
 #include <avr/io.h>
