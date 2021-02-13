@@ -1,7 +1,7 @@
 //
 // SMART UPS FOR RRASPBERRY PI
 // SCETCH FOR ARDUINO NANO
-// https://github.com/AlexVakhnin/ups-raspberrypi/ups-schematic.png
+// https://github.com/AlexVakhnin/ups-raspberrypi/blob/main/ups-schematic.png
 
 // версия 1.2 (стабильная) / av899@ukr.net /Вахнин Александр/ =Cherkasy 2020= /
 //
