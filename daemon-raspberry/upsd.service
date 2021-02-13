@@ -1,0 +1,14 @@
+[Unit]
+Description=upsd
+After=syslog.target
+
+[Service]
+User=root
+Group=root
+WorkingDirectory=/var/pi_control/cdaemon
+ExecStart=/var/pi_control/cdaemon/upsd
+SuccessExitStatus=143
+OOMScoreAdjust=-100
+
+[Install]
+WantedBy=multi-user.target

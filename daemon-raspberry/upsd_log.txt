@@ -1,0 +1,21 @@
+
+[11/03/2020 23:32:26] ttyUSB0 Opened Successfully
+[11/03/2020 23:32:33] Init ttyUSB0 Successful
+[12/03/2020 16:13:05] 220v -> off
+[12/03/2020 16:13:07] St=20 Vbat=12.44(10.59/9.87) pause=0
+[13/03/2020 05:27:37] St=30 Vbat=9.87(10.59/9.87) pause=0 
+[13/03/2020 05:27:39] Shutdown process running...
+[13/03/2020 05:27:59] ttyUSB0 Opened Successfully
+[13/03/2020 05:28:06] Init ttyUSB0 Successful
+[13/03/2020 13:31:34] 220v -> off
+[13/03/2020 13:31:36] St=20 Vbat=12.38(10.59/9.87) pause=0
+[13/03/2020 13:32:00] 220v -> on
+[13/03/2020 13:32:02] St=20 Vbat=12.44(10.59/9.87) pause=0
+[14/03/2020 22:19:49] 220v -> off
+[14/03/2020 22:19:51] St=20 Vbat=11.95(10.59/9.87) pause=0
+[14/03/2020 22:20:03] 220v -> on
+[14/03/2020 22:20:05] St=20 Vbat=13.12(10.59/9.87) pause=0
+[14/03/2020 22:57:18] St=30 Vbat=13.11(10.59/9.87) pause=1
+[14/03/2020 22:57:20] Shutdown process running...
+[14/03/2020 22:57:40] ttyUSB0 Opened Successfully
+[14/03/2020 22:57:47] Init ttyUSB0 Successful
