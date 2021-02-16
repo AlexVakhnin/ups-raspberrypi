@@ -1,7 +1,7 @@
 # Smart UPS for Raspberry PI #
-## -project Arduino Nano ##
-## -robust algoritm ##
-## -monitoring battery energy ##  
+** -project Arduino Nano **
+** -robust algoritm **
+** -monitoring battery energy **  
 #
 Schematic: https://github.com/AlexVakhnin/ups-raspberrypi/blob/main/ups-schematic.png
 #
