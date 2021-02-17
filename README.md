@@ -1,4 +1,4 @@
-# Smart UPS for Raspberry PI #
+# Smart UPS for Raspberry PI  
 + **project Arduino Nano**
 + **robust algoritm**
 + **monitoring battery energy**  
