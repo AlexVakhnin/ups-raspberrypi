@@ -3,7 +3,7 @@
 + **robust algoritm**
 + **monitoring battery energy**  
 #
-Schematic: https://github.com/AlexVakhnin/ups-raspberrypi/blob/main/ups-schematic.png
+Schematic: [ups-schematic.png](https://github.com/AlexVakhnin/ups-raspberrypi/blob/main/ups-schematic.png)
 #
 Arduino sketch: https://github.com/AlexVakhnin/ups-raspberrypi/tree/main/ups-arduino-stable
 #
